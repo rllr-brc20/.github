@@ -28,7 +28,7 @@ At the same time, it encourages broad-based coordination, leveraging community t
 
 - **Unleashing the Power of Leverage:** RLLR enables opportunities to amplify returns with in-demand features like leveraged yield farming, lending, and liquidity mining. These features incentivize cooperative play and boost returns while responsibly managing risk.
 
-## Use Case: Explosive Growth with RLLR
+## Use Case: Collaborative Finance with bitmap and SatBoys
 
 RLLR’s innovative concept extends its reach into the metaverse ecosystem, introducing a unique use case that benefits both digital land holders and virtual asset collectors through cooperative efforts.
 
@@ -51,6 +51,12 @@ Holders of .bitmap land tokens earn SatBoys as cash flow while their principal a
 - **Empowering SatBoys**
 
 SatBoys gain exposure to the vibrant and engaged .bitmap community while bootstrapping their launch. This exposure enhances their presence, provides them with a dedicated user base, and accelerates their growth.
+
+The 3D recursive ordinal collection (not inscribed) is created using the three.js, .gltf, and Draco compression libraries. It loads and displays multiple 3D models in a scene, applies lighting, and allows for interactive camera controls.
+
+### Preview -- https://2sz79q.csb.app/
+
+### Code Sandbox -- https://codesandbox.io/s/satboy-v3-compressed-2sz79q
 
 ## Unlocking Liquidity with RLLR
 
